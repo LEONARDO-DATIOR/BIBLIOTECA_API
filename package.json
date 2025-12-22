@@ -1,0 +1,27 @@
+{
+  "name": "biblioteca_api",
+  "version": "1.0.0",
+  "description": "minha biblioteca pessoal, ass: Duca",
+  "homepage": "https://github.com/LEONARDO-DATIOR/BIBLIOTECA_API#readme",
+  "bugs": {
+    "url": "https://github.com/LEONARDO-DATIOR/BIBLIOTECA_API/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LEONARDO-DATIOR/BIBLIOTECA_API.git"
+  },
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Duca",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^16.1.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
